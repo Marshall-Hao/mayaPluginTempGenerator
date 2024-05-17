@@ -8,7 +8,7 @@ The Maya Plugin Code Generator is a powerful tool designed to simplify the proce
 
 - **User-Friendly Interface**: Intuitive GUI for easy navigation and code generation.
 - **Support for Multiple Plugin Types**: Generate boilerplate code for different types of Maya plugins, including commands and nodes.
-- **Customization Options**: Customize the generated code with specific details.
+- **Customization Options**: Customize the generated code with specific details.And the version spin box can be controlled as ladder way(middle mouse)
 - **Template-Based Generation**: Utilize pre-defined templates to ensure consistent and error-free code.
 - **Multiple platform**: Can work as a stand-alone application or be part of the Maya Gui
 
