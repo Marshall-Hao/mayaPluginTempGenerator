@@ -84,8 +84,8 @@ def initializePlugin(plugin):
     """
     Entry point for a plugin.
     """
-    vendor = "Marshall"
-    version = "1.0.0"
+    vendor = "{{author}}"
+    version = "{{version}}"
 
     plugin_fn = om.MFnPlugin(plugin, vendor, version)
     try:
